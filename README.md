@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Çetin
 
-<!--
-**cetin-ckaya/cetin-ckaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems Student  
+💻 Interested in Software Development & Data Analysis  
+📊 Python | Java | C# | SQL | GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Developing projects primarily with **Java and C#**, along with **Python and SQL**
+- Particularly interested in **Backend Development, Software Systems, and Data Analysis**
+- Actively exploring **Prompt Engineering** and effective interaction with large language models
+
+---
+
+## 🛠️ Technologies
+- Java
+- C#
+- Python
+- SQL
+- Git & GitHub
+- Google Colab
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/kullaniciadin  
+- LinkedIn: https://www.linkedin.com/in/linkedinprofilin
