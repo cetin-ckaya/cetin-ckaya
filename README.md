@@ -1,25 +1,34 @@
 # 👋 Hi, I'm Çetin
 
 🎓 Software Engineering Student  
-💻 Interested in Software Development & Data Analysis  
-📊 Python | Java | C# | SQL | GitHub  
+💻 Focused on Backend Development, Software Systems & Data Analysis  
+📍 Türkiye  
 
 ---
 
-## 🚀 About Me
-- Developing projects primarily with **Java and C#**, along with **Python and SQL**
-- Interested in **Backend Development, Software Systems, and Data Analysis**
-- Actively exploring **Prompt Engineering** and effective interaction with large language models
+## 🇬🇧 About Me
+- Software Engineering student with a strong interest in **backend development**
+- Mainly working with **Java and C#**, supported by **Python and SQL**
+- Interested in **software architecture, data analysis**, and scalable systems
+- Actively learning and experimenting with **Prompt Engineering** and effective use of large language models
+
+---
+
+## 🇹🇷 Hakkımda
+- **Yazılım Mühendisliği** öğrencisiyim
+- Ağırlıklı olarak **Java ve C#** ile backend geliştirme üzerine çalışıyorum
+- **Python ve SQL** ile veri analizi ve destekleyici projeler geliştiriyorum
+- **Yazılım sistemleri, mimari yapılar** ve **Prompt Engineering** konularına ilgi duyuyorum
 
 ---
 
 ## 🛠️ Technologies
-- Java
-- C#
-- Python
-- SQL
-- Git & GitHub
-- Google Colab
+- Java  
+- C#  
+- Python  
+- SQL  
+- Git & GitHub  
+- Google Colab  
 
 ---
 
