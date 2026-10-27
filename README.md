@@ -1,37 +1,18 @@
-# 👋 Hi, I'm Çetin
+# Hi, I'm Çetin 👋
 
-🎓 Software Engineering Student  
-💻 Focused on Backend Development, Software Systems & Data Analysis  
-📍 Türkiye  
+Final-year Software Engineering student (Kırklareli University, June 2027) focused on **Java backend development**.
+I build projects around RESTful API design, transaction management and data consistency under concurrent operations.
 
----
+### 🔨 Currently building
+**[Mizan](https://github.com/cetin-ckaya/mizan-ledger)**: a double-entry banking ledger on Oracle 23ai with Java 21 and Spring Boot. Idempotent transfers, locking strategy comparison, PL/SQL end-of-day reconciliation. *(in progress)*
 
-## 🇬🇧 About Me
-- Software Engineering student with a strong interest in **backend development**
-- Mainly working with **Java and C#**, supported by **Python and SQL**
-- Interested in **software architecture, data analysis**, and scalable systems
-- Actively learning and experimenting with **Prompt Engineering** and effective use of large language models
+### 📂 Featured projects
+- **[CryptoTracker AI](https://github.com/cetin-ckaya/CryptoTracker-AI)**: AI-supported crypto portfolio backend. Java 21, Spring Boot, Spring Security + JWT, PostgreSQL, Redis, RabbitMQ, WebSocket
+- **[Stock & Order Management API](https://github.com/cetin-ckaya/Stock-Order-Managment)**: pessimistic locking for stock consistency under concurrent orders, Flyway, JUnit 5, Mockito
+- **Exchange Rate Tracker**: hourly TCMB rates via Spring Scheduler and JAXB, BigDecimal for money
 
----
+### 🛠 Tech
+Java · Spring Boot · Spring Security · Spring Data JPA · SQL · PostgreSQL · Flyway · Redis · RabbitMQ · Docker · JUnit 5 · Mockito · Git
 
-## 🇹🇷 Hakkımda
-- **Yazılım Mühendisliği** öğrencisiyim
-- Ağırlıklı olarak **Java ve C#** ile backend geliştirme üzerine çalışıyorum
-- **Python ve SQL** ile veri analizi ve destekleyici projeler geliştiriyorum
-- **Yazılım sistemleri, mimari yapılar** ve **Prompt Engineering** konularına ilgi duyuyorum
-
----
-
-## 🛠️ Technologies
-- Java  
-- C#  
-- Python  
-- SQL  
-- Git & GitHub  
-- Google Colab  
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/cetin-ckaya  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/%C3%A7etin-%C3%A7etinkaya-903053292/)
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/cetin-cetinkaya/) · cetin.cetinnkkaya@gmail.com
